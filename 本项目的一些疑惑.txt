@@ -1,0 +1,5 @@
+nn.PReLU
+nn.BatchNorm1d
+
+print([*range(5)])    # [0, 1, 2, 3, 4]
+print([*iter(range(5))])     # [0, 1, 2, 3, 4]
